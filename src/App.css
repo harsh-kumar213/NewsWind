@@ -1,0 +1,9 @@
+.category-container
+{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content:center;
+    margin: 5vh auto;
+    width: 50vh;
+}
